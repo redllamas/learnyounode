@@ -1,0 +1,1 @@
+requires should always be declared at the top of the file. module requires can be declared where required, inside module files etc. when module files created, the declared variable 'var mod = require('modfile.js');' produces a function 'mod' from which the function inside the module can be accessed
